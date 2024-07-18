@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A full stack web developer from the UK currently working on JavaScript, TypeScript, React, Next.js, Node.js, AWS and Python.
+  A full stack software engineer, currently in the UK and working on JavaScript, TypeScript, React, Next.js, Node.js, AWS and Python.
 </p>
 
 <p align='center'>
